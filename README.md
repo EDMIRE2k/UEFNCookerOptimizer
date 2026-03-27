@@ -6,6 +6,8 @@ This tool does not fix cook errors automatically. Instead, it provides a control
 
 No assets are deleted or permanently modified. The tool only applies the hidden "Editor Only" flag to actors, which prevents them from being included in cooked builds.
 
+<img width="1170" height="1274" alt="image" src="https://github.com/user-attachments/assets/42eccdf1-d55e-4edf-8ef0-09cfb7f4e8d0" />
+
 ---
 
 ## Installation
