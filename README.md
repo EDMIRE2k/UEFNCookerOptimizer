@@ -1,4 +1,4 @@
-# Cooker Optimizer (UEFN Python Tool)
+# Cooker Optimizer Guide (UEFN Python Tool)
 
 Cooker Optimizer is a Python tool designed to assist with resolving cook failures in Unreal Editor for Fortnite (UEFN), particularly "Cooker Out of Memory" issues.
 
